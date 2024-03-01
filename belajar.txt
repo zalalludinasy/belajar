@@ -3,3 +3,4 @@ Belajar GitHub
 -ingin mengetahui cara pengoprasiannya
 -ingin mahir dalam github
 -ingin bisa git juga
+-ingin kaya
