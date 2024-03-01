@@ -6,3 +6,4 @@ RENCANA BELAJAR DI 2024
 - Belajar php
 - Belajar laravel
 - Belajar Mobile
+- Belajar konseptual
