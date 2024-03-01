@@ -1,0 +1,6 @@
+RENCANA BELAJAR DI 2024
+
+- Belajar Git & Gihub
+- Belajar php
+- Belajar laravel
+- Belajar Mobile
